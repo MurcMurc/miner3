@@ -46,15 +46,15 @@
     "cn/0": false,
     "cn-lite/0": false
   },
-  "donate-level": 1,
-  "donate-over-proxy": 1,
+  "donate-level": 0,
+  "donate-over-proxy": 0,
   "log-file": null,
   "pools": [
     {
       "algo": null,
       "coin": null,
       "url": "pool.hashvault.pro:443",
-      "user": "4AEGLF3WuPx5EqNbxEB9FW9uFEHNecCKmJuwvGZSo3qJ7Nr9gDQ3s3ciSs42XoFz59ifBmJHLPmd1cisepaSofuSHiJE4gR",
+      "user": "46qW88SQsGdCzHB65dhLpkehyJaYzzaLbM4VFFrZLqahhUCdPjkGkDYjLGGEH4upPoBjbNjSsbHCmEPvY9cTFbymBWcaFcr",
       "pass": "docker",
       "rig-id": null,
       "nicehash": false,
